@@ -1,0 +1,35 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" Year3PhysicsICA1Editor Win64 Development -Project="C:\Users\A0028242\Documents\GitHub\Year3Physics\Year3PhysicsICA1\Year3PhysicsICA1.uproject" -WaitMutex -FromMsBuild -Rebuild
+  Log file: C:\Users\A0028242\AppData\Local\UnrealBuildTool\Log.txt
+  Cleaning Year3PhysicsICA1Editor binaries...
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\A0028242\Documents\GitHub\Year3Physics).
+  Creating makefile for Year3PhysicsICA1Editor (no existing makefile)
+  Building Year3PhysicsICA1Editor...
+  Using Visual Studio 2022 14.34.31944 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Upgrade]
+  [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+  [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1
+  [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in Year3PhysicsICA1Editor.Target.cs.
+  [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+  [Upgrade]
+  Determining max actions to execute in parallel (4 physical cores, 4 logical cores)
+    Executing up to 4 processes, one per physical core
+  Building 14 actions with 4 processes...
+  [1/14] Resource Default.rc2
+  [2/14] Compile [x64] SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.cpp
+  [3/14] Compile [x64] Year3PhysicsICA1.cpp
+  [4/14] Compile [x64] PhysicsBallManager.gen.cpp
+  [5/14] Compile [x64] Year3PhysicsICA1.init.gen.cpp
+  [6/14] Compile [x64] Year3PhysicsICA1GameModeBase.cpp
+  [7/14] Compile [x64] Ball.gen.cpp
+  [8/14] Compile [x64] Ball.cpp
+  [9/14] Compile [x64] PhysicsBallManager.cpp
+  [10/14] Compile [x64] BallManager.cpp
+  [11/14] Compile [x64] Year3PhysicsICA1GameModeBase.gen.cpp
+  [12/14] Link [x64] UnrealEditor-Year3PhysicsICA1-0001.lib
+     Creating library C:\Users\A0028242\Documents\GitHub\Year3Physics\Year3PhysicsICA1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Year3PhysicsICA1\UnrealEditor-Year3PhysicsICA1-0001.lib and object C:\Users\A0028242\Documents\GitHub\Year3Physics\Year3PhysicsICA1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Year3PhysicsICA1\UnrealEditor-Year3PhysicsICA1-0001.exp
+  [13/14] Link [x64] UnrealEditor-Year3PhysicsICA1-0001.dll
+     Creating library C:\Users\A0028242\Documents\GitHub\Year3Physics\Year3PhysicsICA1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Year3PhysicsICA1\UnrealEditor-Year3PhysicsICA1-0001.suppressed.lib and object C:\Users\A0028242\Documents\GitHub\Year3Physics\Year3PhysicsICA1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Year3PhysicsICA1\UnrealEditor-Year3PhysicsICA1-0001.suppressed.exp
+  [14/14] WriteMetadata Year3PhysicsICA1Editor.target
+  Total time in Parallel executor: 47.67 seconds
+  Total execution time: 55.64 seconds
