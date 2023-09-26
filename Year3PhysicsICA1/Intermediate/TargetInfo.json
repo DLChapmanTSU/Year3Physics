@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Year3PhysicsICA1",
+			"Path": "C:\\Users\\A0028242\\Documents\\GitHub\\Year3Physics\\Year3PhysicsICA1\\Source\\Year3PhysicsICA1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Year3PhysicsICA1Editor",
+			"Path": "C:\\Users\\A0028242\\Documents\\GitHub\\Year3Physics\\Year3PhysicsICA1\\Source\\Year3PhysicsICA1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

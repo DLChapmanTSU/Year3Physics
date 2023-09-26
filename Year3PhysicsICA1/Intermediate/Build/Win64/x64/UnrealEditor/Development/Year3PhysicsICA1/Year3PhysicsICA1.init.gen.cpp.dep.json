@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\a0028242\\documents\\github\\year3physics\\year3physicsica1\\intermediate\\build\\win64\\unrealeditor\\inc\\year3physicsica1\\uht\\year3physicsica1.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\a0028242\\documents\\github\\year3physics\\year3physicsica1\\intermediate\\build\\win64\\x64\\year3physicsica1editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\a0028242\\documents\\github\\year3physics\\year3physicsica1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\year3physicsica1\\definitions.year3physicsica1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
